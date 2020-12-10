@@ -35,6 +35,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer BlackWidow X Ultimate                   |  1532:0217  |
 | Razer BlackWidow X Tournament Edition Chroma  |  1532:021A  |
 | Razer Ornata Chroma                           |  1532:021E  |
+| Razer Ornata Chroma V2                        |  1532:025D  |
 | Razer Ornata                                  |  1532:021F  |
 | Razer Blade Stealth (Late 2016)               |  1532:0220  |
 | Razer BlackWidow Chroma V2                    |  1532:0221  |
